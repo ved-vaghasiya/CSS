@@ -1,0 +1,12 @@
+h1 {
+  color: red;
+  font-family: Georgia;
+}
+p {
+  font-size: 20px;
+  color: black;
+}
+#banner {
+    background-color: blueviolet;
+    text-align: center;
+}
